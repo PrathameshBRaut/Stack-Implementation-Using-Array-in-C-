@@ -8,9 +8,7 @@ void main ()
       
     printf("Enter the number of elements in the stack ");   
     scanf("%d",&n);  
-    printf("Stack operations using array");  
-  
-printf("\n----------------------------------------------\n");  
+    printf("Stack operations using array");    
     while(choice != 4)  
     {  
         printf("Chose any option.\n");  
